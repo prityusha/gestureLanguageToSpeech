@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640793043006",
+    "project_id": "imagepro-a712f",
+    "storage_bucket": "imagepro-a712f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640793043006:android:bdf1ba5b9a2b0b18ba716f",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640793043006-9n6m57h1v7gbpudvf79c9q8e6jtvco7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0n8Uh1eqFrjglwFMllSVNmNiV1jrv3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640793043006-9n6m57h1v7gbpudvf79c9q8e6jtvco7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

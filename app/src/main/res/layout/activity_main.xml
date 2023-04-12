@@ -9,11 +9,25 @@
     android:orientation="vertical"
     >
 
+    <ImageView
+        android:layout_width="197dp"
+        android:layout_height="169dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/image_pro_logo" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hand Detection"
+        android:text="Sign Language"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recognition"
         android:textAllCaps="false"
         android:textSize="40dp"
         android:textColor="@color/black"
@@ -24,7 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="50dp"
         android:id="@+id/camera_button"
-        android:text="Real-time"
+        android:text="Real-time Recognition"
         android:textAllCaps="false"
         />
 
